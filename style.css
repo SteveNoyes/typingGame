@@ -53,3 +53,9 @@ body, .quote-input {
 .quote-input:focus {
   border-color: red;
 }
+
+/* add color */
+
+.correct {
+  color: green;
+}
