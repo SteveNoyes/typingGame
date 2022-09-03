@@ -1,8 +1,8 @@
-# movement pattern sprite animation
+# typing game
 
 
 ## Description
-  movement patterns for four sprite sheets
+  typing game that will only move to next quote when current is correct
 
 Using:
 JavaScript
