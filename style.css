@@ -25,7 +25,7 @@ body, .quote-input {
 
 .timer {
   position: absolute;
-  top: 2rem;
+  top: 7rem;
   font-size: 3rem;
   color: white;
 }
@@ -53,7 +53,7 @@ body, .quote-input {
   border-color: #0f1b2c;
 }
 
-/* add color */
+/* add color while typing */
 
 .correct {
   color: green;
