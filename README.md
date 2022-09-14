@@ -27,8 +27,8 @@ Desktop Screenshot
 
 ### Links
 
-- Solution URL: [Github](https://github.com/SteveNoyes/productPreviewCardComponent)
-- Live Site URL: - [GitHub Pages](https://stevenoyes.github.io/productPreviewCardComponent/)
+- Solution URL: [Github](https://github.com/SteveNoyes/typingGame)
+- Live Site URL: - [GitHub Pages](https://stevenoyes.github.io/typingGame/)
 
 ## My process
 
